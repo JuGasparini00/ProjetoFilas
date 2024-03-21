@@ -1,7 +1,7 @@
 # ProjetoFilas
 Código desenvolvido como um desafio em sala de aula.
 
-    ## Controle de atendimento de um banco
+## Controle de atendimento de um banco
 
 # O programa deve ter três opções no menu:
 1. Retirar senha
